@@ -46,3 +46,5 @@ Then execute the script with:
 ```sh
 ./resize.sh my-icon.svg
 ```
+
+*Note: If inkscape complains about not being able to find the SVG file, try giving the absolute path.*
