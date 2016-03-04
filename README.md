@@ -35,7 +35,7 @@ If you want a precomposed icon with the rounded corners:
 
 You may need to edit the path to your Inkscape binary for this to work.
 
-For OS X you can link the binary to `/usr/local/bin/` using:
+You can link the binary to `/usr/local/bin/` using:
 
 ```sh
 ln -s /Applications/Inkscape.app/Contents/Resources/bin/inkscape /usr/local/bin/inkscape
